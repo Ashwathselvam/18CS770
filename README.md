@@ -8,6 +8,6 @@ Tool Used : Blender (can also use Unreal Engine)
 
 Website for:
 
-Extracting 3D Model : https://sketchfab.com/
-Animating the Model : https://www.mixamo.com/#/
+  Extracting 3D Model : https://sketchfab.com/ <br />
+  Animating the Model : https://www.mixamo.com/#/ <br />
 
