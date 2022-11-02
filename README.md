@@ -2,8 +2,10 @@
 
 ### Experiment : Create a short film using any free, open source 3D animation tool
 
-###### Tool Used : Blender (can also use Unreal Engine)
+##### Tool Used : Blender (can also use Unreal Engine)
 
 Website for:
-  Extracting 3D Model : https://www.sketchfab.com
-  ANimating the Model : https://mixamo.com
+```
+Extracting 3D Model : https://www.sketchfab.com
+Animating the Model : https://mixamo.com
+```
