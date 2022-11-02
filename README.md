@@ -6,6 +6,6 @@
 
 Website for:
 ```
-Extracting 3D Model : https://www.sketchfab.com
-Animating the Model : https://mixamo.com
+Extracting 3D Model : https://sketchfab.com/
+Animating the Model : https://www.mixamo.com/#/
 ```
