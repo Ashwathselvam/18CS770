@@ -51,3 +51,5 @@ $ns at 1.0 "$ftp start"
 $ns at 4.0 "$ftp stop"
 $ns at 4.5 "$cbr stop"
 $ns at 5.0 "finish"
+
+$ns run
